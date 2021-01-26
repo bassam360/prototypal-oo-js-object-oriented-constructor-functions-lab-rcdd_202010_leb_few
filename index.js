@@ -1,7 +1,7 @@
-function Scooter(year, color,modal){
+function Scooter(year, color,model){
   this.year = year;
   this.color = color;
-  this.modal = modal
+  this.model = model
 }
 
 function Driver(name, age, experience){
